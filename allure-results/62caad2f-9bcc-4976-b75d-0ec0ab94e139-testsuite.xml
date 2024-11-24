@@ -1,0 +1,47 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1732486173282' stop='1732486518358'>
+    <name>login</name>
+    <title>login</title>
+    <test-cases>
+        <test-case start='1732486173282' status='passed' stop='1732486247334'>
+            <name>Como usuario registrado, quiero iniciar sesión con mis credenciales, para acceder al sistema</name>
+            <title>Como usuario registrado, quiero iniciar sesión con mis credenciales, para acceder al sistema</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1732486247334' status='passed' stop='1732486313477'>
+            <name>Como usuario, quiero recibir un mensaje de error cuando intento iniciar sesión con credenciales incorrectas, para saber que debo revisar mis datos</name>
+            <title>Como usuario, quiero recibir un mensaje de error cuando intento iniciar sesión con credenciales incorrectas, para saber que debo revisar mis datos</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1732486313477' status='passed' stop='1732486383088'>
+            <name>Como usuario, quiero tener la opción de que olvide mi contraseña, para recuperar mi acceso</name>
+            <title>Como usuario, quiero tener la opción de que olvide mi contraseña, para recuperar mi acceso</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1732486383088' status='passed' stop='1732486456482'>
+            <name>Como usuario,quiero que hacer click en registrar, para que se despliegue el formulario</name>
+            <title>Como usuario,quiero que hacer click en registrar, para que se despliegue el formulario</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1732486456482' status='passed' stop='1732486518358'>
+            <name>Como usuario, quiero que me redirija a la pagina principal, para ver los servicios de la app</name>
+            <title>Como usuario, quiero que me redirija a la pagina principal, para ver los servicios de la app</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
